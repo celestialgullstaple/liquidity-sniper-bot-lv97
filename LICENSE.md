@@ -1,4 +1,4 @@
-# 
+# vip Automation for liquidity sniper bot | token-launch-monitoring & liquidity-pool-analysis offers the most advanced liquidity sniper bot, with token-launch-monitoring and
 
 
 
